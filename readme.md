@@ -1,9 +1,9 @@
 # YP Practice Lab 
-##Prerequisites (Get this before the practice lab starts)
+**Prerequisites (Get this before the practice lab starts)**
 Things you need to get started:
 * A VM with Linux (any choice) and:
  * Git
-```
+   * ```
 sudo apt-get install git
 ```
  * Docker
