@@ -1,8 +1,9 @@
-# YP Practice Lab
+# YP Practice Lab prerequisites (Get this before the practice lab starts)
 Things you need to get started:
 * A VM with Linux (any choice) and:
  * Git
  * Docker
+
 
 ## Contents of this repository
 * dockerfiles/jenkins/Dockerfile.yml
@@ -22,8 +23,8 @@ sudo docker run -d --restart=unless-stopped -p 8080:8080 rancher/server
 6. Create host
 7. Create Rancher stack
 8. Test service access
- * Unlock Jenkins
- * Check Tomcat access
+ * Unlock Jenkins 8a
+ * Check Tomcat access 8b
 9. Start building!
 
 
