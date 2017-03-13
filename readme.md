@@ -9,14 +9,9 @@ Things you need to get started:
 * ~~dockerfiles/tomcat/Dockerfile.yml~~
  * ~~tomcat-users.xml~~
 * ~~dockerfiles/docker-compose.yml~~
-* PetClinic?
  
 ## Setup
-1. Build Jenkins docker image
- * Set permissions on Jenkins volume:
-```
-sudo chown -R 1000 /home/<username>/jenkins_home
-```
+1. Pull Jenkins docker image
 2. Edit **/dockerfiles/tomcat/tomcat-users.xml
 3. Build Tomcat docker image 
 4. Run Rancher server
