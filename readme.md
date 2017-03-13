@@ -24,8 +24,8 @@ sudo docker run -d --restart=unless-stopped -p 8080:8080 rancher/server
 6. Create host
 7. Create Rancher stack
 8. Test service access
-  * Unlock Jenkins
-  * Check Tomcat access
+   * Unlock Jenkins
+   * Check Tomcat access
 9. Start building!
 
 
