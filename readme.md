@@ -1,5 +1,6 @@
 # YP Practice Lab 
 **Prerequisites (Get this before the practice lab starts)**
+
 Things you need to get started:
 * A VM with Linux (any choice) and:
  * Git
@@ -17,6 +18,8 @@ sudo apt-get install git
 * ~~dockerfiles/docker-compose.yml~~
  
 ## Setup
+
+**We do this during the practice lab **
 1. Pull Jenkins docker image
 2. Edit **/dockerfiles/tomcat/tomcat-users.xml
 3. Build Tomcat docker image 
