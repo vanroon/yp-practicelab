@@ -3,11 +3,11 @@
 Things you need to get started:
 * A VM with Linux (any choice) and:
  * Git
-   * ```
+```
 sudo apt-get install git
 ```
  * Docker
-  * https://docs.docker.com/engine/installation
+   * https://docs.docker.com/engine/installation
 
 
 ## Contents of this repository
