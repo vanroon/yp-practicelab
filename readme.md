@@ -12,6 +12,10 @@ Things you need to get started:
 ```
  * Docker
    * <a href>https://docs.docker.com/engine/installation</a>
+   * Thanks to Emir: 
+```
+    curl -fsSL https://get.docker.com/  | sh
+```
 
 ## Contents of this repository
 * ~~dockerfiles/tomcat/Dockerfile.yml~~
