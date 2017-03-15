@@ -5,6 +5,7 @@ Things you need to get started:
 1) A VM with Linux (any choice):
  * VirtualBox (<a href>https://www.virtualbox.org/wiki/Linux_Downloads</a>)
  * Linux (e.g. Ubuntu <a href>https://www.ubuntu.com/download/desktop</a>)
+ * Note: min. 4G of RAM and 20G disk size.
 2) On your Linux machine, install the following:
  * Git
 ```
